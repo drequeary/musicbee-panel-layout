@@ -4,8 +4,10 @@
 ![screenshot](screenshot.png)
 
 # Installation
-1. In MusicBee, go to View -> Import/Export -> Import Panel Arrangement
-2. Select panel file.
+1. Download zip from [releases](https://github.com/drequeary/musicbee-panel-layout/releases).
+2. Extract zip.
+3. In MusicBee, go to View -> Import/Export -> Import Panel Arrangement
+4. Select panel file.
 
 # Suggested Skins
 * MusicBee3
